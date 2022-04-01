@@ -1,0 +1,123 @@
+.hide{
+    display: none !important;
+}
+.navbar-customclass{
+    background-color: black;
+    
+}
+.nav-item a{
+    color: #999999 !important;
+}
+.nav-link{
+    padding-left: 25px !important;
+}
+a:hover{
+    color: white !important;
+}
+.nav-btn{
+    color: #999999 !important;
+    border-color: #999999 !important;
+    border-radius: 0 !important;
+    margin-left: 25px !important; 
+}
+.nav-btn:hover{
+    color: white !important;
+    border-color: white !important;
+}
+#head .btn{
+    display: inline-block;
+    padding: 5px 50px;
+    margin: 10px 0px 0px 0px;
+}
+.head-btn{
+    color: #999999 !important;
+    border-color: #999999 !important;
+    border-radius: 0 !important;
+
+}
+.head-btn1{
+ 
+    border-color: #999999 !important;
+    border-radius: 0 !important;
+  
+    color: white!important;
+    background-image: linear-gradient(to bottom, #FF9B22 0%, #FF8C00 100%);
+}
+.head-btn:hover{
+    color: white !important;
+    border-color: white !important;
+}
+ #head{
+    margin-top: auto;
+    padding: 10% 0%;
+    background-image: url('images/bg_header.jpg');
+    background-size: cover;
+    min-height: 550px;
+    text-align: center;
+    
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+    
+} 
+
+#head h1{
+    padding: 100px 0 5px 0;
+    font-family: "Open sans", Helvetica, Arial !important;
+    font-size: 44px;
+    color: white;
+}
+#head p{
+    padding: 5px 0 5px 0;
+    color: white;
+}
+
+#head a{
+    text-decoration: none;
+    color: white;
+  
+}
+
+.div1{
+    padding-top: 5%;
+}
+.sub-div .h-caption{
+    text-align: center;
+}
+
+.sub-div1{
+     margin: 5% auto; 
+}
+.sub-div1 .jumbotron{
+    background-color: #F7F5F4;
+    padding: 5% 5%;
+   
+}
+.sub-div .jumbotron{
+    background-color: #F7F5F4;
+    padding: 5% 5%;
+}
+.h-body a{
+    text-decoration: none;
+}
+
+#footer1 .jumbotron{
+    background-color: #232323;
+    color: #999999;
+    padding: 3% 0%;
+}
+#footer2 .jumbotron{
+    background-color: black;
+    color: #999999;
+    padding: 1% 0%;
+}
+#footer2 p a{
+    text-decoration: none;
+    color: #999999;
+}
+#footer1 p a{
+    color: #999999;
+}
+#footer1 i{
+    padding-right: 10px;
+    color: #999999;
+}
